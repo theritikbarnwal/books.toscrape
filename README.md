@@ -12,7 +12,7 @@ This project is a web scraper designed to extract book information from [Books t
   - **Rating**: The book's rating (e.g., One, Two, Three stars, etc.).
   - **Stock Availability**: Whether the book is in stock or not.
   - **URL**: A direct link to the book's details page.
-- Saves the scraped data into an Excel file (`book.toscrape.xlsx`).
+- Saves the scraped data into an Excel file (`books.toscrape.xlsx`).
 
 ## Technologies Used
 
